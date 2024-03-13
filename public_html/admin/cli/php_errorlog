@@ -1,0 +1,5 @@
+[01-Jan-2024 21:05:06 America/Bogota] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error al leer de la base de datos
+[01-Jan-2024 21:05:06 America/Bogota] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error al leer de la base de datos
+[14-Jan-2024 21:06:18 America/Bogota] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error al leer de la base de datos
+[14-Jan-2024 21:06:18 America/Bogota] Exception ignored in shutdown function core\lock\mysql_lock_factory::auto_release: Error al leer de la base de datos
+[14-Jan-2024 21:06:18 America/Bogota] Exception ignored in shutdown function tool_log\log\manager::dispose: Error al leer de la base de datos
